@@ -1,0 +1,9 @@
+# IntelliJ
+.idea
+*.iml
+
+# Images
+dist
+
+# Build
+uasset-reader
